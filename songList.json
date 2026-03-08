@@ -1,72 +1,569 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Ayashi no Ceres - Insert Song",
+    "name": "\"Mugen no Kaze\" by Chihiro Kusaka",
+    "video": "https://eudist.animemusicquiz.com/vve8xd.webm",
+    "mp3": null
+  },
+  {
+    "id": 2,
+    "anime": "Boys Be... - Insert Song",
+    "name": "\"Memoria\" by Kazuko Hamano",
+    "video": "https://eudist.animemusicquiz.com/zckpab.webm",
+    "mp3": null
+  },
+  {
+    "id": 3,
+    "anime": "Boys Be... - Insert Song",
+    "name": "\"Truth\" by Kasumi Matsumura",
+    "video": "https://eudist.animemusicquiz.com/e4o2j1.webm",
+    "mp3": null
+  },
+  {
+    "id": 4,
+    "anime": "Boys Be... - Insert Song",
+    "name": "\"WHERE IS MY PARADISE\" by Yuu Asakawa",
+    "video": "https://eudist.animemusicquiz.com/bwiak3.webm",
+    "mp3": null
+  },
+  {
+    "id": 5,
+    "anime": "Boys Be... - Insert Song",
+    "name": "\"Naisho no Kimochi\" by Aki Maeda",
+    "video": "https://eudist.animemusicquiz.com/hb0kd5.webm",
+    "mp3": null
+  },
+  {
+    "id": 6,
+    "anime": "Boys Be... - Insert Song",
+    "name": "\"Ich bin's, ich sollte büssen…\" by Bach Collegium Japan",
+    "video": "https://eudist.animemusicquiz.com/dx74prlemasgl332.webm",
+    "mp3": null
+  },
+  {
+    "id": 7,
+    "anime": "Daisougen to Hakuba - Insert Song",
+    "name": "\"Hakuba no Ouji\" by Hidetoshi Nakamura",
+    "video": "https://eudist.animemusicquiz.com/sez1vg.webm",
+    "mp3": null
+  },
+  {
+    "id": 8,
+    "anime": "Denshin Mamotte Shugogetten! - Insert Song",
+    "name": "\"Anata ga Iru\" by Mariko Kouda",
+    "video": "https://eudist.animemusicquiz.com/ea0l1k.webm",
+    "mp3": null
+  },
+  {
+    "id": 9,
+    "anime": "Denshin Mamotte Shugogetten! - Insert Song",
+    "name": "\"Chiisana Message\" by Mariko Kouda",
+    "video": "https://eudist.animemusicquiz.com/u7a8hb.webm",
+    "mp3": null
+  },
+  {
+    "id": 10,
+    "anime": "Denshin Mamotte Shugogetten! - Insert Song",
+    "name": "\"Kin no Tsuki\" by Mariko Kouda",
+    "video": "https://eudist.animemusicquiz.com/85apro.webm",
+    "mp3": null
+  },
+  {
+    "id": 11,
+    "anime": "Denshin Mamotte Shugogetten! - Insert Song",
+    "name": "\"Konnichiwa\" by Mariko Kouda",
+    "video": "https://eudist.animemusicquiz.com/6i7xjl.webm",
+    "mp3": null
+  },
+  {
+    "id": 12,
+    "anime": "Denshin Mamotte Shugogetten! - Insert Song",
+    "name": "\"moon light\" by Spoon",
+    "video": "https://eudist.animemusicquiz.com/4baoo5.webm",
+    "mp3": null
+  },
+  {
+    "id": 13,
+    "anime": "Denshin Mamotte Shugogetten! - Insert Song",
+    "name": "\"Mukae ni Iku yo\" by Susumu Mameda",
+    "video": "https://eudist.animemusicquiz.com/q392hk.webm",
+    "mp3": null
+  },
+  {
+    "id": 14,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"brave heart\" by Ayumi Miyazaki",
+    "video": "https://eudist.animemusicquiz.com/tdclq8.webm",
+    "mp3": null
+  },
+  {
+    "id": 15,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Beat Hit!\" by Ayumi Miyazaki",
+    "video": "https://eudist.animemusicquiz.com/gkstip.webm",
+    "mp3": null
+  },
+  {
+    "id": 16,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Break Up!\" by Ayumi Miyazaki",
+    "video": "https://eudist.animemusicquiz.com/e1u9yo.webm",
+    "mp3": null
+  },
+  {
+    "id": 17,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Boku wa Boku Datte\" by Kouji Wada",
+    "video": "https://eudist.animemusicquiz.com/xahi3a.webm",
+    "mp3": null
+  },
+  {
+    "id": 18,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Now is the time!!\" by AiM",
+    "video": "https://eudist.animemusicquiz.com/g5nkkr.webm",
+    "mp3": null
+  },
+  {
+    "id": 19,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"sun goes down\" by AiM",
+    "video": "https://eudist.animemusicquiz.com/bgg711.webm",
+    "mp3": null
+  },
+  {
+    "id": 20,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Bokura no Digital World\" by Digimon All Stars, Kouji Wada, AiM",
+    "video": "https://eudist.animemusicquiz.com/6ukksv.webm",
+    "mp3": null
+  },
+  {
+    "id": 21,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Tenshi no Inori\" by AiM",
+    "video": "https://eudist.animemusicquiz.com/f8yr2e.webm",
+    "mp3": null
+  },
+  {
+    "id": 22,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Negai Kanaeru Kagi\" by Youto Kazama",
+    "video": "https://eudist.animemusicquiz.com/vol8br.webm",
+    "mp3": null
+  },
+  {
+    "id": 23,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Minna no Christmas\" by Kouji Wada",
+    "video": "https://eudist.animemusicquiz.com/cth4yn.webm",
+    "mp3": null
+  },
+  {
+    "id": 24,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Walk on the Edge ~Ishida Yamato no Theme~\" by Youto Kazama",
+    "video": "https://eudist.animemusicquiz.com/tpr2gy.webm",
+    "mp3": null
+  },
+  {
+    "id": 25,
+    "anime": "Digimon Adventure 02 - Insert Song",
+    "name": "\"Butter-Fly\" by Kouji Wada",
+    "video": "https://eudist.animemusicquiz.com/dkqxzy.webm",
+    "mp3": null
+  },
+  {
+    "id": 26,
+    "anime": "Eiga Crayon Shin-chan: Arashi o Yobu Jungle - Insert Song",
+    "name": "\"Hoero! Dragon\" by Carl Douglas",
+    "video": "https://eudist.animemusicquiz.com/13sq9a.webm",
+    "mp3": null
+  },
+  {
+    "id": 27,
+    "anime": "Escaflowne: The Movie - Insert Song",
+    "name": "\"SORA\" by Shanti Snyder",
+    "video": "https://eudist.animemusicquiz.com/t2h38h.webm",
+    "mp3": null
+  },
+  {
+    "id": 28,
+    "anime": "Escaflowne: The Movie - Insert Song",
+    "name": "\"SORA - Sakaba nite\" by Midori",
+    "video": "https://eudist.animemusicquiz.com/f190dj.webm",
+    "mp3": null
+  },
+  {
+    "id": 29,
+    "anime": "Escaflowne: The Movie - Insert Song",
+    "name": "\"What'cha gonna do???\" by Gabriela Robin",
+    "video": "https://eudist.animemusicquiz.com/vyhcfq.webm",
+    "mp3": null
+  },
+  {
+    "id": 30,
+    "anime": "Escaflowne: The Movie - Insert Song",
+    "name": "\"Nomitori no Uta\" by ADOM no Kodomo-tachi",
+    "video": "https://eudist.animemusicquiz.com/8erqjx.webm",
+    "mp3": null
+  },
+  {
+    "id": 31,
+    "anime": "FLCL - Insert Song",
+    "name": "\"ONE LIFE\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/ur4751.webm",
+    "mp3": null
+  },
+  {
+    "id": 32,
+    "anime": "FLCL - Insert Song",
+    "name": "\"Instant Music\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/2b7iis.webm",
+    "mp3": null
+  },
+  {
+    "id": 33,
+    "anime": "FLCL - Insert Song",
+    "name": "\"HAPPY BIVOUAC\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/ownz4e.webm",
+    "mp3": null
+  },
+  {
+    "id": 34,
+    "anime": "FLCL - Insert Song",
+    "name": "\"CARNIVAL\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/ysr9nu.webm",
+    "mp3": null
+  },
+  {
+    "id": 35,
+    "anime": "FLCL - Insert Song",
+    "name": "\"Another Morning\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/t062ql.webm",
+    "mp3": null
+  },
+  {
+    "id": 36,
+    "anime": "FLCL - Insert Song",
+    "name": "\"Blues Drive Monster\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/edrqvn.webm",
+    "mp3": null
+  },
+  {
+    "id": 37,
+    "anime": "FLCL - Insert Song",
+    "name": "\"Crazy Sunshine\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/xzcpbi.webm",
+    "mp3": null
+  },
+  {
+    "id": 38,
+    "anime": "FLCL - Insert Song",
+    "name": "\"Funny Bunny\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/k1m1jt.webm",
+    "mp3": null
+  },
+  {
+    "id": 39,
+    "anime": "FLCL - Insert Song",
+    "name": "\"HYBRID RAINBOW\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/19aqfl.webm",
+    "mp3": null
+  },
+  {
+    "id": 40,
+    "anime": "FLCL - Insert Song",
+    "name": "\"I think I can\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/vr81uj.webm",
+    "mp3": null
+  },
+  {
+    "id": 41,
+    "anime": "FLCL - Insert Song",
+    "name": "\"LAST DINOSAUR\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/uro8co.webm",
+    "mp3": null
+  },
+  {
+    "id": 42,
+    "anime": "FLCL - Insert Song",
+    "name": "\"LITTLE BUSTERS\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/druvzv.webm",
+    "mp3": null
+  },
+  {
+    "id": 43,
+    "anime": "FLCL - Insert Song",
+    "name": "\"RUNNERS HIGH~FLCL Ver.~\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/1rb4l9.webm",
+    "mp3": null
+  },
+  {
+    "id": 44,
+    "anime": "FLCL - Insert Song",
+    "name": "\"White Ash\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/jpm8pg.webm",
+    "mp3": null
+  },
+  {
+    "id": 45,
+    "anime": "FLCL - Insert Song",
+    "name": "\"Advice\" by the pillows",
+    "video": "https://eudist.animemusicquiz.com/wzj1lj.webm",
+    "mp3": null
+  },
+  {
+    "id": 46,
+    "anime": "Gate Keepers - Insert Song",
+    "name": "\"Himitsu Call (Sekken no Uta)\" by Kiyomi Tanaka",
+    "video": "https://eudist.animemusicquiz.com/29zxmr.webm",
+    "mp3": null
+  },
+  {
+    "id": 47,
+    "anime": "Gate Keepers - Insert Song",
+    "name": "\"Shinsekai Ondo\" by Takahiro Sakurai",
+    "video": "https://eudist.animemusicquiz.com/3r6apb.webm",
+    "mp3": null
+  },
+  {
+    "id": 48,
+    "anime": "Gate Keepers - Insert Song",
+    "name": "\"Motto Osoba ni\" by Kinryu Arimoto & Miki Nagasawa",
+    "video": "https://eudist.animemusicquiz.com/xx5r5b.webm",
+    "mp3": null
+  },
+  {
+    "id": 49,
+    "anime": "Gate Keepers - Insert Song",
+    "name": "\"Shikkoku no Sekai e\" by Tomokazu Seki, Sawa Ishige, Yuko Sasamoto, Ryouka Shima",
+    "video": "https://eudist.animemusicquiz.com/9ebxr0.webm",
+    "mp3": null
+  },
+  {
+    "id": 50,
+    "anime": "Gensoumaden Saiyuuki - Insert Song",
+    "name": "\"open up your mind\" by mirai",
+    "video": "https://eudist.animemusicquiz.com/7pih8s.webm",
+    "mp3": null
+  },
+  {
+    "id": 51,
+    "anime": "Kita e.: Pure Session - Insert Song",
+    "name": "\"Kita e.\" by Four Seasons",
+    "video": "https://eudist.animemusicquiz.com/tlf820.webm",
+    "mp3": null
+  },
+  {
+    "id": 52,
+    "anime": "Kita e.: Pure Session - Insert Song",
+    "name": "\"Koi no Dancing\" by Saeko Chiba",
+    "video": "https://eudist.animemusicquiz.com/im6z95.webm",
+    "mp3": null
+  },
+  {
+    "id": 53,
+    "anime": "Kita e.: Pure Session - Insert Song",
+    "name": "\"MOVE ON!\" by Four Seasons",
+    "video": "https://eudist.animemusicquiz.com/zsuq0d.webm",
+    "mp3": null
+  },
+  {
+    "id": 54,
+    "anime": "Kita e.: Pure Session - Insert Song",
+    "name": "\"Taikutsu to Yuuutsu\" by Maaya Sakamoto",
+    "video": "https://eudist.animemusicquiz.com/74r10k.webm",
+    "mp3": null
+  },
+  {
+    "id": 55,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Egao no Mirai e\" by Yui Horie",
+    "video": "https://eudist.animemusicquiz.com/3svql7.webm",
+    "mp3": null
+  },
+  {
+    "id": 56,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Yakusoku\" by Yui Horie",
+    "video": "https://eudist.animemusicquiz.com/a6t14s.webm",
+    "mp3": null
+  },
+  {
+    "id": 57,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Mainichi ga Otenki\" by Yui Horie",
+    "video": "https://eudist.animemusicquiz.com/7a1tpq.webm",
+    "mp3": null
+  },
+  {
+    "id": 58,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Sakura Saku -musical version-\" by Yui Horie, Yuu Asakawa, Masayo Kurata, Junko Noda, Megumi Hayashibara",
+    "video": "https://eudist.animemusicquiz.com/3w3i17.webm",
+    "mp3": null
+  },
+  {
+    "id": 59,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Lid-kun no Daibouken\" by Yui Horie, Satsuki Yukino, Yuuji Ueda",
+    "video": "https://eudist.animemusicquiz.com/a11igf.webm",
+    "mp3": null
+  },
+  {
+    "id": 60,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Densetsu no Onsengame\" by Satsuki Yukino",
+    "video": "https://eudist.animemusicquiz.com/52x5f6.webm",
+    "mp3": null
+  },
+  {
+    "id": 61,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Sweet blue days\" by Masayo Kurata & Yuu Asakawa",
+    "video": "https://eudist.animemusicquiz.com/x8s1bi.webm",
+    "mp3": null
+  },
+  {
+    "id": 62,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Ii Yu da na\" by Yui Horie, Masayo Kurata, Yuu Asakawa, Junko Noda, Reiko Takagi",
+    "video": "https://eudist.animemusicquiz.com/mp5ldn.webm",
+    "mp3": null
+  },
+  {
+    "id": 63,
+    "anime": "Love Hina - Insert Song",
+    "name": "\"Namida Guse\" by Hiroshi Matsuyama",
+    "video": "https://eudist.animemusicquiz.com/kj2kh3.webm",
+    "mp3": null
+  },
+  {
+    "id": 64,
+    "anime": "Meitantei Conan: Hitomi no Naka no Ansatsusha - Insert Song",
+    "name": "\"Kimi ga Ireba\" by Iori",
+    "video": "https://eudist.animemusicquiz.com/q0prvc.webm",
+    "mp3": null
+  },
+  {
+    "id": 65,
+    "anime": "Meitantei Conan: Hitomi no Naka no Ansatsusha - Insert Song",
+    "name": "\"Bloody Venus\" by Kiyoshi Hayami",
+    "video": "https://eudist.animemusicquiz.com/l4xfna.webm",
+    "mp3": null
+  },
+  {
+    "id": 66,
+    "anime": "NieA_7 - Insert Song",
+    "name": "\"Kage\" by SION",
+    "video": "https://eudist.animemusicquiz.com/v89lpi.webm",
+    "mp3": null
+  },
+  {
+    "id": 67,
+    "anime": "Refrain Blue - Insert Song",
+    "name": "\"la la Boy Friend\" by Yumi Kikuchi",
+    "video": "https://eudist.animemusicquiz.com/p68986.webm",
+    "mp3": null
+  },
+  {
+    "id": 68,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Ai Yue ni\" by Michie Tomizawa & Urara Takano",
+    "video": "https://eudist.animemusicquiz.com/88v59d.webm",
+    "mp3": null
+  },
+  {
+    "id": 69,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Tokyo-teki Kyuujitsu\" by Yuriko Fuchizaki",
+    "video": "https://eudist.animemusicquiz.com/az1m3m.webm",
+    "mp3": null
+  },
+  {
+    "id": 70,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Akai Katyusha\" by Urara Takano",
+    "video": "https://eudist.animemusicquiz.com/0ouilc.webm",
+    "mp3": null
+  },
+  {
+    "id": 71,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Stone Monkey\" by Mayumi Tanaka & Urara Takano",
+    "video": "https://eudist.animemusicquiz.com/xojxry.webm",
+    "mp3": null
+  },
+  {
+    "id": 72,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Ohanabatake\" by Teikoku Kageki-dan",
+    "video": "https://eudist.animemusicquiz.com/5tk71e.webm",
+    "mp3": null
+  },
+  {
+    "id": 73,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Cinderella\" by Chisa Yokoyama & Urara Takano",
+    "video": "https://eudist.animemusicquiz.com/jl8q0p.webm",
+    "mp3": null
+  },
+  {
+    "id": 74,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Shitamachi Rhapsody\" by Chisa Yokoyama & Yuriko Fuchizaki",
+    "video": "https://eudist.animemusicquiz.com/eywjcq.webm",
+    "mp3": null
+  },
+  {
+    "id": 75,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Hibari no Uta ~Tsubakihime no Yuu yori~\" by Michie Tomizawa & Urara Takano",
+    "video": "https://eudist.animemusicquiz.com/utx1uv.webm",
+    "mp3": null
+  },
+  {
+    "id": 76,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Hanafubuki Shiranami Benten\" by Chisa Yokoyama & Mayumi Tanaka",
+    "video": "https://eudist.animemusicquiz.com/l8ejac.webm",
+    "mp3": null
+  },
+  {
+    "id": 77,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Yumemiru Kikai\" by Yuriko Fuchizaki",
+    "video": "https://eudist.animemusicquiz.com/qaeu3a.webm",
+    "mp3": null
+  },
+  {
+    "id": 78,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Hanasaku Otome\" by Teikoku Kageki-dan",
+    "video": "https://eudist.animemusicquiz.com/3mrfks.webm",
+    "mp3": null
+  },
+  {
+    "id": 79,
+    "anime": "Sakura Taisen - Insert Song",
+    "name": "\"Center Spot\" by Michie Tomizawa",
+    "video": "https://eudist.animemusicquiz.com/s7dmbi.webm",
+    "mp3": null
+  },
+  {
+    "id": 80,
+    "anime": "Yu-Gi-Oh! Duel Monsters - Insert Song",
+    "name": "\"I'm Back\" by David Rolfe",
+    "video": "https://eudist.animemusicquiz.com/eam2dv.webm",
+    "mp3": null
+  },
+  {
+    "id": 81,
+    "anime": "Yu-Gi-Oh! Duel Monsters - Insert Song",
+    "name": "\"No Matter What\" by Mike Pasternack",
+    "video": "https://eudist.animemusicquiz.com/lhug29.webm",
+    "mp3": null
+  }
 ]
